@@ -57,15 +57,11 @@ A: Absolutely — all elements are editable in Word.
 ---
 
 ### 🖼 Preview
-**1. Professional Resume Layout**  
-![Professional Resume](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvhw26A5SCdJi3_7R2lCUWM8m7F_hieowFQ&s)  
-*Modern corporate resume template in Word*  
-
-**2. Creative Resume**  
+**1. Creative Resume**  
 ![Creative Resume](https://resumegenius.com/wp-content/uploads/playful-resume-template-ms-word.png?w=1400)  
 *Stylish creative resume design for freelancers*  
 
-**3. Student Resume**  
+**2. Student Resume**  
 ![Student Resume](https://images.template.net/12843/student-resume-template-hxjib.png)  
 *Simple resume template for students*  
 
